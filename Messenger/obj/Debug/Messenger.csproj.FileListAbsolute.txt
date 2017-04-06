@@ -1,0 +1,17 @@
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Debug\Messenger.Form1.resources
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Debug\Messenger.csproj.GenerateResource.Cache
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\bin\Debug\P2PMessenger.exe.config
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\bin\Debug\P2PMessenger.exe
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\bin\Debug\P2PMessenger.pdb
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Debug\P2PMessenger.Properties.Resources.resources
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Debug\P2PMessenger.exe
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Debug\P2PMessenger.pdb
+C:\GitHub\P2PMessenger\Messenger\bin\Debug\P2PMessenger.exe.config
+C:\GitHub\P2PMessenger\Messenger\bin\Debug\P2PMessenger.exe
+C:\GitHub\P2PMessenger\Messenger\bin\Debug\P2PMessenger.pdb
+C:\GitHub\P2PMessenger\Messenger\obj\Debug\Messenger.csprojResolveAssemblyReference.cache
+C:\GitHub\P2PMessenger\Messenger\obj\Debug\Messenger.Form1.resources
+C:\GitHub\P2PMessenger\Messenger\obj\Debug\P2PMessenger.Properties.Resources.resources
+C:\GitHub\P2PMessenger\Messenger\obj\Debug\Messenger.csproj.GenerateResource.Cache
+C:\GitHub\P2PMessenger\Messenger\obj\Debug\P2PMessenger.exe
+C:\GitHub\P2PMessenger\Messenger\obj\Debug\P2PMessenger.pdb

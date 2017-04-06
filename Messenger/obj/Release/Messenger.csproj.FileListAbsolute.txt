@@ -1,0 +1,3 @@
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Release\Messenger.Form1.resources
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Release\Messenger.Properties.Resources.resources
+e:\tom\documents\visual studio 2017\Projects\Messenger\Messenger\obj\Release\Messenger.csproj.GenerateResource.Cache
